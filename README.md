@@ -13,4 +13,6 @@ Lista de exercicios
 (desafio008) #Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.<br>
 (desafio009) #Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.<br>
 (conversor moeda) #Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.<br>
+(pintando parede) #Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.<br>
+(calculo desconto) #Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.<br>
 </div>
