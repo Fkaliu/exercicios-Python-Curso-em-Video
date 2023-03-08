@@ -1,5 +1,5 @@
 # exercicios-Python
-exercicios de Python que eu resolvi para aprender
+exercicios de Python que eu resolvi durante o tempo livre para praticar. Um abraço para o professor Gustavo Guanabara.
 
 Lista de exercicios
 <div text-align:right">
