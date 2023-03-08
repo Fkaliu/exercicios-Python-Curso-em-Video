@@ -12,5 +12,5 @@ Lista de exercicios
 (desafio007) #Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.<br>
 (desafio008) #Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.<br>
 (desafio009) #Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.<br>
-
+(conversor moeda) #Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.<br>
 </div>
