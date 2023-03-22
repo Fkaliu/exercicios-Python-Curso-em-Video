@@ -39,4 +39,5 @@ O nome com todas as letras maiúsculas e minúsculas / Quantas letras tem no tot
 (<b>desafio31</b>) #Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.<br>
 (<b>desafio32</b>) #Faça um programa que leia um ano qualquer e mostre se ele é bissexto.<br>
 (<b>desafio34</b>) #Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.<br>
+(<b>desafio35</b>) #Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.<br>
 </div>
