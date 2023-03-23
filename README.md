@@ -40,4 +40,8 @@ O nome com todas as letras maiúsculas e minúsculas / Quantas letras tem no tot
 (<b>desafio32</b>) #Faça um programa que leia um ano qualquer e mostre se ele é bissexto.<br>
 (<b>desafio34</b>) #Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.<br>
 (<b>desafio35</b>) #Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.<br>
+(<b>desafio36</b>) #Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.<br>
+(<b>desafio37</b>) # Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.<br>
+(<b>desafio38</b>) #Escreva um programa que leia dois números inteiros e compare-os. mostrando na tela uma mensagem: (O primeiro valor é maior / O segundo valor é maior / Não existe valor maior, os dois são iguais)<br>
+(<b>desafio39</b>) #Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.<br>
 </div>
