@@ -1,7 +1,8 @@
 # exercicios-Python
 exercicios de Python que eu resolvi durante o tempo livre para praticar. Um abraço para o professor Gustavo Guanabara.
+Todo o curso e as explicações podem ser encontradas em https://www.cursoemvideo.com/
 
-Essa lista vai será atualizada conforme eu for resolvendo novos ecercicios e desafios.
+Essa lista será atualizada conforme eu for resolvendo novos ecercicios e desafios.
 
 Lista de exercicios
 <div text-align:right">
