@@ -59,7 +59,10 @@ O nome com todas as letras maiúsculas e minúsculas / Quantas letras tem no tot
 (<b>desafio51/b>) #Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.<br>
 (<b>desafio52/b>) #Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.<br>
 (<b>desafio53/b>) #Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços. Exemplos de palíndromos: APOS A SOPA, A SACADA DA CASA, A TORRE DA DERROTA, O LOBO AMA O BOLO, ANOTARAM A DATA DA MARATONA.<br>
-(<b>desafio54/b>) #Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
+(<b>desafio54/b>) #Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.<br>
 (<b>desafio55/b>) #Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.<br>
 (<b>desafio56/b>) #Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.<br>
+(<b>desafio57</b>) #Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores ‘M’ ou ‘F’. Caso esteja errado, peça a digitação novamente até ter um valor correto.<br>
+(<b>desafio58</b>) #Melhore o jogo do DESAFIO 28 onde o computador vai “pensar” em um número entre 0 e 10. Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.<br>
+(<b>desafio59</b>) #Crie um programa que leia dois valores e mostre um menu na tela: [ 1 ] somar | [ 2 ] multiplicar | [ 3 ] maior | [ 4 ] novos números | [ 5 ] sair do programa // Seu programa deverá realizar a operação solicitada em cada caso.<br>
 </div>
