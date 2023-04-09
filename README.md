@@ -6,7 +6,7 @@ Essa lista será atualizada conforme eu for resolvendo novos ecercicios e desafi
 
 Lista de exercicios
 <div text-align:right">
-(<b>desafio001</b>) #script que leia o nome e mostre uma mensagem de boas vindes de acordo com o valor recebido.<br>
+(<b>desafio001</b>) #script que leia o nome e mostre uma mensagem de boas vindas de acordo com o valor recebido.<br>
 (<b>desafio002</b>) #Um script que leia dois numeros e tente mostrar a soma entre eles. <br>
 (<b>desafio003</b>) #Crie um programa que leia dois numeros e mostre a soma entre eles<br>
 (<b>desafio004</b>) #Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.<br>
