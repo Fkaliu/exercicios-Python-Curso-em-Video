@@ -1,4 +1,4 @@
-# exercicios-Python
+# Exercicios-Python
 exercicios de Python que eu resolvi durante o tempo livre para praticar. Um abraço para o professor Gustavo Guanabara.
 Todo o curso e as explicações podem ser encontradas em https://www.cursoemvideo.com/
 
